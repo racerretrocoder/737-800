@@ -1,6 +1,13 @@
 <?xml version="1.0"?>
 <PropertyList include="737-model-common.xml">
   <path>737-800.ac</path>
+ <multiplay>
+  <refuel>
+   <type>probe</type>
+  </refuel>
+ </multiplay>
+
+  
   <animation n="0">
     <texture>737-800.png</texture>
   </animation>
